@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vance Ranjel Cajayon's Profile</title>
+    <style>
+        body {
+            background-color: #FEC00F;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .ust-logo {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%; /* Adjust based on preference */
+        }
+        .details {
+            font-size: 16px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="https://www.ust.edu.ph" target="_blank">
+            <img src= "OFFICIAL_UST_SEAL_2016.png" alt="UST Logo" class="ust-logo">
+        </a>
+        <p class="details">Name: Vance Ranjel Cajayon</p>
+        <p class="details">Field: Civil Engineering</p>
+        <p class="details">Contact Info: 09193067234</p>
+        <p class="details">Address: 4664 Heron St. Santolan Phase. II Gen. T. De Leon Valenzuela City</p>
+    </div>
+</body>
+</html>
